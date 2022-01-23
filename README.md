@@ -1,5 +1,6 @@
-## "<Hello World/>", My name is Weatherly
-- I'm 20 years old and I'm Graduating in Computer Engineering at the Federal University of Ceará.
+## 💻Let's code a better future👨🏻‍💻
+- My name is Weatherly🙋🏻‍♂️
+- I'm 20 years old and I'm Graduating in Computer Engineering at the Federal University of Ceará.👨🏻‍🎓
 - I am fluent in Portuguese and English, Intermediate level of understanding in Spanish, Italian and French and reasonable level of understanding in Russian and Finnish.
 - I've been learning computer programming since 2015. I joined the Computer Engineering course in 2021.
 - I started with the C programming language and then with the C++ and C# languages. 
