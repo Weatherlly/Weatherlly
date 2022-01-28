@@ -39,7 +39,7 @@ The current technologies that I use the most in my studies, research and in my o
   <img align="center" alt="Weatherlly-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
 
   </div>
-  
+  <p></p>
 
   <div>
   <a href="https://www.linkedin.com/in/weatherlly/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
