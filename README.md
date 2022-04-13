@@ -47,3 +47,4 @@ The current technologies that I use the most in my studies, research and in my o
   <a href = "mailto:weatherlly2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/EaYhVXnb" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
  </div>
+<span align="center"><img src="./svg/github-contribution-grid-snake.svg" align="center" alt="Snake"></span>
